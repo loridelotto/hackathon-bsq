@@ -1,0 +1,165 @@
+{
+  "data": {
+    "symbol": "pep",
+    "shortInterestTable": {
+      "headers": {
+        "settlementDate": "Settlement Date",
+        "interest": "Short Interest",
+        "avgDailyShareVolume": "Avg. Daily Share Volume",
+        "daysToCover": "Days to Cover"
+      },
+      "rows": [
+        {
+          "settlementDate": "09/30/2026",
+          "interest": "23,293,009",
+          "avgDailyShareVolume": "9,951,472",
+          "daysToCover": 2.34066
+        },
+        {
+          "settlementDate": "09/15/2026",
+          "interest": "25,853,939",
+          "avgDailyShareVolume": "8,064,282",
+          "daysToCover": 3.205982
+        },
+        {
+          "settlementDate": "08/31/2026",
+          "interest": "21,279,663",
+          "avgDailyShareVolume": "6,751,508",
+          "daysToCover": 3.151839
+        },
+        {
+          "settlementDate": "08/14/2026",
+          "interest": "23,558,326",
+          "avgDailyShareVolume": "6,127,584",
+          "daysToCover": 3.844635
+        },
+        {
+          "settlementDate": "07/31/2026",
+          "interest": "29,388,790",
+          "avgDailyShareVolume": "8,181,629",
+          "daysToCover": 3.592046
+        },
+        {
+          "settlementDate": "07/15/2026",
+          "interest": "32,637,580",
+          "avgDailyShareVolume": "9,939,243",
+          "daysToCover": 3.283709
+        },
+        {
+          "settlementDate": "06/30/2026",
+          "interest": "33,304,413",
+          "avgDailyShareVolume": "10,555,952",
+          "daysToCover": 3.155036
+        },
+        {
+          "settlementDate": "06/15/2026",
+          "interest": "31,455,776",
+          "avgDailyShareVolume": "8,844,581",
+          "daysToCover": 3.556503
+        },
+        {
+          "settlementDate": "05/29/2026",
+          "interest": "25,087,625",
+          "avgDailyShareVolume": "8,487,421",
+          "daysToCover": 2.95586
+        },
+        {
+          "settlementDate": "05/15/2026",
+          "interest": "24,887,206",
+          "avgDailyShareVolume": "5,591,243",
+          "daysToCover": 4.451104
+        },
+        {
+          "settlementDate": "04/30/2026",
+          "interest": "23,761,145",
+          "avgDailyShareVolume": "6,112,734",
+          "daysToCover": 3.887155
+        },
+        {
+          "settlementDate": "04/15/2026",
+          "interest": "20,750,821",
+          "avgDailyShareVolume": "5,378,526",
+          "daysToCover": 3.858087
+        },
+        {
+          "settlementDate": "03/31/2026",
+          "interest": "20,477,176",
+          "avgDailyShareVolume": "6,883,320",
+          "daysToCover": 2.974898
+        },
+        {
+          "settlementDate": "03/13/2026",
+          "interest": "21,536,067",
+          "avgDailyShareVolume": "6,049,679",
+          "daysToCover": 3.559869
+        },
+        {
+          "settlementDate": "02/27/2026",
+          "interest": "20,841,738",
+          "avgDailyShareVolume": "6,750,807",
+          "daysToCover": 3.087296
+        },
+        {
+          "settlementDate": "02/13/2026",
+          "interest": "29,665,371",
+          "avgDailyShareVolume": "11,378,549",
+          "daysToCover": 2.607131
+        },
+        {
+          "settlementDate": "01/30/2026",
+          "interest": "23,630,340",
+          "avgDailyShareVolume": "8,260,551",
+          "daysToCover": 2.860625
+        },
+        {
+          "settlementDate": "01/15/2026",
+          "interest": "21,730,146",
+          "avgDailyShareVolume": "8,439,025",
+          "daysToCover": 2.574959
+        },
+        {
+          "settlementDate": "12/31/2025",
+          "interest": "21,554,918",
+          "avgDailyShareVolume": "7,182,744",
+          "daysToCover": 3.000931
+        },
+        {
+          "settlementDate": "12/15/2025",
+          "interest": "21,269,278",
+          "avgDailyShareVolume": "8,249,347",
+          "daysToCover": 2.578298
+        },
+        {
+          "settlementDate": "11/28/2025",
+          "interest": "20,427,866",
+          "avgDailyShareVolume": "7,443,872",
+          "daysToCover": 2.744253
+        },
+        {
+          "settlementDate": "11/14/2025",
+          "interest": "19,304,418",
+          "avgDailyShareVolume": "6,985,149",
+          "daysToCover": 2.763637
+        },
+        {
+          "settlementDate": "10/31/2025",
+          "interest": "16,948,916",
+          "avgDailyShareVolume": "5,955,917",
+          "daysToCover": 2.845727
+        },
+        {
+          "settlementDate": "10/15/2025",
+          "interest": "16,772,527",
+          "avgDailyShareVolume": "8,093,166",
+          "daysToCover": 2.072431
+        }
+      ]
+    }
+  },
+  "message": null,
+  "status": {
+    "rCode": 200,
+    "bCodeMessage": null,
+    "developerMessage": null
+  }
+}
