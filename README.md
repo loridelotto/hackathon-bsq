@@ -14,7 +14,6 @@ and from one favourable period (1999-2004).
 |---|---|
 | `notebook.ipynb` | The full analysis, phase by phase (Phases 1-5), with comments under every result |
 | `report.pdf` | Short writeup and AI usage disclosure |
-| `ai/` | Files produced with the AI assistant during the day (day plan), left as they are |
 | `data/raw/prices_raw.pkl`, `.csv` | Daily prices from Yahoo Finance, as downloaded (checkpoint) |
 | `data/processed/prices_validated.pkl`, `.csv` | Cleaned and aligned KO and PEP prices |
 | `data/raw/pep_short_interest.json`, `.csv` | PEP short interest from Nasdaq (last 12 months, checkpoint) |
@@ -42,7 +41,7 @@ Then run all cells from the top (Restart and Run All). No API key is needed.
 ## How the validation was kept honest
 
 - The in-sample / out-of-sample split, the baseline rule and the parameter grid were fixed before
-  downloading the data (see the day plan in `ai/`).
+  downloading the data.
 - Phase 1 exploration uses in-sample data only. The out-of-sample period was used once, for the
   baseline rule only.
 - Every backtest is logged in `results/trials.sqlite`: 12 in-sample configurations (9 planned, 3 added
